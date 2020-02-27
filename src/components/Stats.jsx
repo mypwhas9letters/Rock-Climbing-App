@@ -12,8 +12,8 @@ class Stats extends Component {
   render() {
     return(
       <h1>Stats</h1>
-    )
+    );
   }
 }
 
-export default Stats
+export default Stats;

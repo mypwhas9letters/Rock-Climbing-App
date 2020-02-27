@@ -1,12 +1,18 @@
-App to track rock climbing progression
+App to track of rock climbing progression
 
-To Do:
+To Do List
 
-Front End
+Front End:
+
 Login/Register in the Homepage
-Profile page for the user
+Navbar
+
+Dashboard - Profile page for the user
   - Stats
+  - Training
+  - Form to add new session
 
 
-Backend
-CRUD functions in Node and Express
+Backend:
+CRUD functions in Node and express
+NoSQL/Mongo?
